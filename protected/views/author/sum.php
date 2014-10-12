@@ -5,7 +5,7 @@ $this->breadcrumbs = array(
 );
 ?>
 
-<h1>Calculate test</h1>
+<h1>Kalkilátor teszt</h1>
 
 <div class="form">
 
