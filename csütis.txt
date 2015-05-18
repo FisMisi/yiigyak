@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 egy aaasdadasdasdasdada kettõ aacassacasasa asa
 asdadas asdasdsa dad
+=======
+egyv sd s ds
+>>>>>>> branch 'develop' of https://github.com/FisMisi/yiigyak.git
