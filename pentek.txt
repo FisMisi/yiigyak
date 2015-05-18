@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-aslidlasdasdbasdbasdibasdcikhaslih
-=======
-aslidlasdasdbasdbasdibasdcikhaslih hvjvhch
-
-Gitről módosítok
->>>>>>> branch 'teszt_' of https://github.com/FisMisi/yiigyak.git
