@@ -1,8 +1,4 @@
-<<<<<<< teszt_
 aslidlasdasdbasdbasdibasdcikhaslih hvjvhch
 
 Gitről módosítok
 Gitről módosítok 2.
-=======
-aslidlasdasdbasdbasdibasdcikhaslih
->>>>>>> de96010 hh
